@@ -2,7 +2,7 @@
 
 A Chip8 emulator written in plain javascript.
 
-![AltText](/screenshot.png?raw=true "Chip8")
+![AltText](/screenshot2.png?raw=true "Chip8")
 
 ## Instructions
 
