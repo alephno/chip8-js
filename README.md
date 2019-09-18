@@ -2,6 +2,8 @@
 
 A Chip8 emulator written in plain javascript.
 
+![AltText](/screenshot.png?raw=true "Chip8")
+
 ## Instructions
 
 1. run npm install
